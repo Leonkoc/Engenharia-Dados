@@ -46,8 +46,8 @@ O pipeline segue as etapas de ETL:
 ## Como Executar
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/etl-bitcoin.git
-cd etl-bitcoin
+git clone https://github.com/Leonkoc/Engenharia-Dados.git
+cd Engenharia-Dados/ETL-Completa
 ```
 ### 2. Instalar Dependências
 ```bash
